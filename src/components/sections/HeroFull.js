@@ -53,7 +53,7 @@ class HeroFull extends React.Component {
                   Get a complimentary fitness tracker when you sign up for a new Planet Fitness plan
                 </p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">
-                  <Button tag="a" color="primary" href="https://cruip.com/">
+                  <Button tag="a" color="primary" href="#">
                     Plans & Pricing
                   </Button>
                 </div>
