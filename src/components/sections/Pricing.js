@@ -96,11 +96,11 @@ class Pricing extends React.Component {
                         What’s included
                       </div>
                       <ul className="pricing-item-features-list list-reset text-xs mb-32">
-                        <li className="is-checked">Excepteur sint occaecat velit</li>
-                        <li className="is-checked">Excepteur sint occaecat velit</li>
-                        <li className="is-checked">Excepteur sint occaecat velit</li>
-                        <li>Excepteur sint occaecat velit</li>
-                        <li>Excepteur sint occaecat velit</li>
+                        <li className="is-checked">Free fitness training</li>
+                        <li className="is-checked">Clean, Safe, Welcoming Environment</li>
+                        <li className="is-checked">Complimentary Mobile App</li>
+                        <li>First to access new features</li>
+                        {/* <li>Excepteur sint occaecat velit</li> */}
                       </ul>
                     </div>
                   </div>
@@ -127,11 +127,11 @@ class Pricing extends React.Component {
                         What’s included
                       </div>
                       <ul className="pricing-item-features-list list-reset text-xs mb-32">
-                        <li className="is-checked">Excepteur sint occaecat velit</li>
-                        <li className="is-checked">Excepteur sint occaecat velit</li>
-                        <li className="is-checked">Excepteur sint occaecat velit</li>
-                        <li className="is-checked">Excepteur sint occaecat velit</li>
-                        <li>Excepteur sint occaecat velit</li>
+                      <li className="is-checked">Free fitness training</li>
+                        <li className="is-checked">Clean, Safe, Welcoming Environment</li>
+                        <li className="is-checked">Complimentary Mobile App</li>
+                        <li className="is-checked">First to access new features</li>
+                        {/* <li>Excepteur sint occaecat velit</li> */}
                       </ul>
                     </div>
                   </div>
